@@ -1,0 +1,6 @@
+framework module Pods_Mushake {
+  umbrella header "Pods-Mushake-umbrella.h"
+
+  export *
+  module * { export * }
+}

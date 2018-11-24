@@ -7,14 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		88670ACD2196909B008142B5 /* Thunderclouds (feat. Sia, Diplo & Labrinth).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88670ACC2196909B008142B5 /* Thunderclouds (feat. Sia, Diplo & Labrinth).mp3 */; };
 		8894214121960922000EA477 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8894214021960922000EA477 /* AppDelegate.swift */; };
 		8894214321960922000EA477 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8894214221960922000EA477 /* ViewController.swift */; };
 		8894214621960922000EA477 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8894214421960922000EA477 /* Main.storyboard */; };
 		8894214821960923000EA477 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8894214721960923000EA477 /* Assets.xcassets */; };
 		8894214B21960923000EA477 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8894214921960923000EA477 /* LaunchScreen.storyboard */; };
+		8894215621960968000EA477 /* play.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8894215221960967000EA477 /* play.jpg */; };
+		8894215721960968000EA477 /* LSD_Thunderclouds.png in Resources */ = {isa = PBXBuildFile; fileRef = 8894215321960967000EA477 /* LSD_Thunderclouds.png */; };
+		8894215821960968000EA477 /* loadingscreen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8894215421960967000EA477 /* loadingscreen.jpg */; };
+		8894215921960968000EA477 /* pause.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8894215521960968000EA477 /* pause.jpg */; };
+		8894215B21960AE2000EA477 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8894215A21960AE2000EA477 /* background.jpg */; };
+		8894216021960D90000EA477 /* ProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 8894215D21960D90000EA477 /* ProgressHUD.bundle */; };
+		8894216121960D90000EA477 /* ProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 8894215F21960D90000EA477 /* ProgressHUD.m */; };
+		88F10F46219D3B9B00B8E0D8 /* Genius (feat. Sia, Diplo & Labrinth).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88F10F45219D3B9B00B8E0D8 /* Genius (feat. Sia, Diplo & Labrinth).mp3 */; };
+		88F10F48219D3C7100B8E0D8 /* next.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 88F10F47219D3C7100B8E0D8 /* next.jpg */; };
+		88F10F4A219D3D9400B8E0D8 /* back.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 88F10F49219D3D9300B8E0D8 /* back.jpg */; };
+		E43BF8E9583639641B4B45C1 /* Pods_Mushake.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9DB28D4C0817ACE4085E25 /* Pods_Mushake.framework */; };
+		FFD0CC86219B620E00B8FF9E /* user.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FFD0CC85219B620E00B8FF9E /* user.jpg */; };
+		FFD0CC88219B660100B8FF9E /* RegisViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD0CC87219B660100B8FF9E /* RegisViewController.swift */; };
+		FFD0CC8A219B723300B8FF9E /* SongoneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD0CC89219B723300B8FF9E /* SongoneViewController.swift */; };
+		FFD8300E219B4F6600D35FC2 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD8300D219B4F6600D35FC2 /* LoginViewController.swift */; };
+		FFEC4A6A219CB1EA005E792B /* Mountains  (feat. Sia, Diplo & Labrinth).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FFEC4A69219CB1EA005E792B /* Mountains  (feat. Sia, Diplo & Labrinth).mp3 */; };
+		FFEC4A6D219CB30E005E792B /* Audio  (feat. Sia, Diplo & Labrinth).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FFEC4A6B219CB30E005E792B /* Audio  (feat. Sia, Diplo & Labrinth).mp3 */; };
+		FFEC4A71219CB3B3005E792B /* LSD_Audio.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FFEC4A6F219CB3B2005E792B /* LSD_Audio.jpg */; };
+		FFEC4A72219CB3B3005E792B /* LSD_Mountains.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FFEC4A70219CB3B2005E792B /* LSD_Mountains.jpg */; };
+		FFEC4A74219CB3CB005E792B /* LSD_Genius.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FFEC4A73219CB3CB005E792B /* LSD_Genius.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5E9DB28D4C0817ACE4085E25 /* Pods_Mushake.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Mushake.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		648FAED9A21F6EBEE699E12D /* Pods-Mushake.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mushake.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Mushake/Pods-Mushake.debug.xcconfig"; sourceTree = "<group>"; };
+		88670ACC2196909B008142B5 /* Thunderclouds (feat. Sia, Diplo & Labrinth).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Thunderclouds (feat. Sia, Diplo & Labrinth).mp3"; sourceTree = "<group>"; };
 		8894213D21960922000EA477 /* Mushake.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Mushake.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8894214021960922000EA477 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8894214221960922000EA477 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +46,28 @@
 		8894214721960923000EA477 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8894214A21960923000EA477 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8894214C21960924000EA477 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8894215221960967000EA477 /* play.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = play.jpg; sourceTree = "<group>"; };
+		8894215321960967000EA477 /* LSD_Thunderclouds.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LSD_Thunderclouds.png; sourceTree = "<group>"; };
+		8894215421960967000EA477 /* loadingscreen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = loadingscreen.jpg; sourceTree = "<group>"; };
+		8894215521960968000EA477 /* pause.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pause.jpg; sourceTree = "<group>"; };
+		8894215A21960AE2000EA477 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
+		8894215C21960D8F000EA477 /* Mushake-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Mushake-Bridging-Header.h"; sourceTree = "<group>"; };
+		8894215D21960D90000EA477 /* ProgressHUD.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = ProgressHUD.bundle; sourceTree = "<group>"; };
+		8894215E21960D90000EA477 /* ProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProgressHUD.h; sourceTree = "<group>"; };
+		8894215F21960D90000EA477 /* ProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProgressHUD.m; sourceTree = "<group>"; };
+		88F10F45219D3B9B00B8E0D8 /* Genius (feat. Sia, Diplo & Labrinth).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Genius (feat. Sia, Diplo & Labrinth).mp3"; sourceTree = "<group>"; };
+		88F10F47219D3C7100B8E0D8 /* next.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = next.jpg; sourceTree = "<group>"; };
+		88F10F49219D3D9300B8E0D8 /* back.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = back.jpg; sourceTree = "<group>"; };
+		DD4CC8EAB052FED2407BF0A7 /* Pods-Mushake.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mushake.release.xcconfig"; path = "Pods/Target Support Files/Pods-Mushake/Pods-Mushake.release.xcconfig"; sourceTree = "<group>"; };
+		FFD0CC85219B620E00B8FF9E /* user.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = user.jpg; sourceTree = "<group>"; };
+		FFD0CC87219B660100B8FF9E /* RegisViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisViewController.swift; sourceTree = "<group>"; };
+		FFD0CC89219B723300B8FF9E /* SongoneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongoneViewController.swift; sourceTree = "<group>"; };
+		FFD8300D219B4F6600D35FC2 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		FFEC4A69219CB1EA005E792B /* Mountains  (feat. Sia, Diplo & Labrinth).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Mountains  (feat. Sia, Diplo & Labrinth).mp3"; sourceTree = "<group>"; };
+		FFEC4A6B219CB30E005E792B /* Audio  (feat. Sia, Diplo & Labrinth).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Audio  (feat. Sia, Diplo & Labrinth).mp3"; sourceTree = "<group>"; };
+		FFEC4A6F219CB3B2005E792B /* LSD_Audio.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LSD_Audio.jpg; sourceTree = "<group>"; };
+		FFEC4A70219CB3B2005E792B /* LSD_Mountains.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LSD_Mountains.jpg; sourceTree = "<group>"; };
+		FFEC4A73219CB3CB005E792B /* LSD_Genius.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LSD_Genius.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +75,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E43BF8E9583639641B4B45C1 /* Pods_Mushake.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		42C3AA529FB9A86494007169 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				648FAED9A21F6EBEE699E12D /* Pods-Mushake.debug.xcconfig */,
+				DD4CC8EAB052FED2407BF0A7 /* Pods-Mushake.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		78967BC4EFD6763554A93EB8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5E9DB28D4C0817ACE4085E25 /* Pods_Mushake.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		8894213421960922000EA477 = {
 			isa = PBXGroup;
 			children = (
 				8894213F21960922000EA477 /* Mushake */,
 				8894213E21960922000EA477 /* Products */,
+				42C3AA529FB9A86494007169 /* Pods */,
+				78967BC4EFD6763554A93EB8 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,12 +120,34 @@
 		8894213F21960922000EA477 /* Mushake */ = {
 			isa = PBXGroup;
 			children = (
+				FFEC4A69219CB1EA005E792B /* Mountains  (feat. Sia, Diplo & Labrinth).mp3 */,
+				88F10F45219D3B9B00B8E0D8 /* Genius (feat. Sia, Diplo & Labrinth).mp3 */,
+				FFEC4A6B219CB30E005E792B /* Audio  (feat. Sia, Diplo & Labrinth).mp3 */,
+				88670ACC2196909B008142B5 /* Thunderclouds (feat. Sia, Diplo & Labrinth).mp3 */,
+				FFEC4A73219CB3CB005E792B /* LSD_Genius.jpg */,
+				FFEC4A6F219CB3B2005E792B /* LSD_Audio.jpg */,
+				FFEC4A70219CB3B2005E792B /* LSD_Mountains.jpg */,
+				8894215321960967000EA477 /* LSD_Thunderclouds.png */,
 				8894214021960922000EA477 /* AppDelegate.swift */,
 				8894214221960922000EA477 /* ViewController.swift */,
 				8894214421960922000EA477 /* Main.storyboard */,
+				FFD0CC89219B723300B8FF9E /* SongoneViewController.swift */,
+				FFD0CC87219B660100B8FF9E /* RegisViewController.swift */,
+				FFD8300D219B4F6600D35FC2 /* LoginViewController.swift */,
+				8894215A21960AE2000EA477 /* background.jpg */,
+				8894215421960967000EA477 /* loadingscreen.jpg */,
+				8894215521960968000EA477 /* pause.jpg */,
+				8894215221960967000EA477 /* play.jpg */,
+				88F10F49219D3D9300B8E0D8 /* back.jpg */,
+				88F10F47219D3C7100B8E0D8 /* next.jpg */,
+				FFD0CC85219B620E00B8FF9E /* user.jpg */,
 				8894214721960923000EA477 /* Assets.xcassets */,
 				8894214921960923000EA477 /* LaunchScreen.storyboard */,
 				8894214C21960924000EA477 /* Info.plist */,
+				8894215D21960D90000EA477 /* ProgressHUD.bundle */,
+				8894215E21960D90000EA477 /* ProgressHUD.h */,
+				8894215F21960D90000EA477 /* ProgressHUD.m */,
+				8894215C21960D8F000EA477 /* Mushake-Bridging-Header.h */,
 			);
 			path = Mushake;
 			sourceTree = "<group>";
@@ -71,9 +159,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8894214F21960924000EA477 /* Build configuration list for PBXNativeTarget "Mushake" */;
 			buildPhases = (
+				8C51B454CFE727A09F40988F /* [CP] Check Pods Manifest.lock */,
 				8894213921960922000EA477 /* Sources */,
 				8894213A21960922000EA477 /* Frameworks */,
 				8894213B21960922000EA477 /* Resources */,
+				C1991C45DFD686F292E7330F /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -96,6 +186,7 @@
 				TargetAttributes = {
 					8894213C21960922000EA477 = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1010;
 					};
 				};
 			};
@@ -122,7 +213,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFEC4A72219CB3B3005E792B /* LSD_Mountains.jpg in Resources */,
+				8894215721960968000EA477 /* LSD_Thunderclouds.png in Resources */,
 				8894214B21960923000EA477 /* LaunchScreen.storyboard in Resources */,
+				FFEC4A6A219CB1EA005E792B /* Mountains  (feat. Sia, Diplo & Labrinth).mp3 in Resources */,
+				88F10F48219D3C7100B8E0D8 /* next.jpg in Resources */,
+				8894215821960968000EA477 /* loadingscreen.jpg in Resources */,
+				FFD0CC86219B620E00B8FF9E /* user.jpg in Resources */,
+				88F10F4A219D3D9400B8E0D8 /* back.jpg in Resources */,
+				FFEC4A74219CB3CB005E792B /* LSD_Genius.jpg in Resources */,
+				88670ACD2196909B008142B5 /* Thunderclouds (feat. Sia, Diplo & Labrinth).mp3 in Resources */,
+				FFEC4A6D219CB30E005E792B /* Audio  (feat. Sia, Diplo & Labrinth).mp3 in Resources */,
+				8894215921960968000EA477 /* pause.jpg in Resources */,
+				8894215621960968000EA477 /* play.jpg in Resources */,
+				FFEC4A71219CB3B3005E792B /* LSD_Audio.jpg in Resources */,
+				8894216021960D90000EA477 /* ProgressHUD.bundle in Resources */,
+				8894215B21960AE2000EA477 /* background.jpg in Resources */,
+				88F10F46219D3B9B00B8E0D8 /* Genius (feat. Sia, Diplo & Labrinth).mp3 in Resources */,
 				8894214821960923000EA477 /* Assets.xcassets in Resources */,
 				8894214621960922000EA477 /* Main.storyboard in Resources */,
 			);
@@ -130,13 +237,66 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		8C51B454CFE727A09F40988F /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Mushake-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C1991C45DFD686F292E7330F /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Mushake/Pods-Mushake-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework",
+				"${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/IQKeyboardManagerSwift.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SVProgressHUD.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Mushake/Pods-Mushake-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		8894213921960922000EA477 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFD0CC8A219B723300B8FF9E /* SongoneViewController.swift in Sources */,
+				FFD8300E219B4F6600D35FC2 /* LoginViewController.swift in Sources */,
+				8894216121960D90000EA477 /* ProgressHUD.m in Sources */,
 				8894214321960922000EA477 /* ViewController.swift in Sources */,
 				8894214121960922000EA477 /* AppDelegate.swift in Sources */,
+				FFD0CC88219B660100B8FF9E /* RegisViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,17 +440,22 @@
 		};
 		8894215021960924000EA477 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 648FAED9A21F6EBEE699E12D /* Pods-Mushake.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 42VTD33JC9;
 				INFOPLIST_FILE = Mushake/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.kueyen.Mushake;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Mushake/Mushake-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -298,17 +463,21 @@
 		};
 		8894215121960924000EA477 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = DD4CC8EAB052FED2407BF0A7 /* Pods-Mushake.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 42VTD33JC9;
 				INFOPLIST_FILE = Mushake/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.kueyen.Mushake;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Mushake/Mushake-Bridging-Header.h";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
